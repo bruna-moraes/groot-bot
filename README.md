@@ -3,6 +3,7 @@
 ## Comentários do projeto
 
 Nesse projeto utilizei HTML, CSS e um pouco de JavaScript na criação dele, além do planejamento da interface feita através do Figma. 
+
 Obs: O projeto foi feito somente para fins de estudo, não houve nenhuma monetização através dele e o uso dos elementos na página foi somente ilustrativo.
 
 
